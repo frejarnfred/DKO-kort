@@ -49,7 +49,11 @@ python3 -m http.server 8000
 
 **Punkter**: koordinaterne i `points.geojson` er by-centrum, ikke de faktiske renseanlægskoordinater.
 
-**Kvalitativ kodning**: `qualitative.json` er i sin nuværende form en midlertidig sammenstilling baseret på offentlig nyhedsdækning og politiets pressemeddelelser om rocker-/bandeklubhuse, ikke en systematisk kortlægning. Kildedatoer varierer fra 2013 til 2024 på tværs af byerne, se `source_note`, `confidence` og `as_of` i hver post. Denne fil skal erstattes med den faktiske kodning, før data bruges til analyse.
+**Kvalitativ kodning**: `qualitative.json` dækker perioden 2021-2026 og bygger på offentligt tilgængelige kilder: NSK's rapportserie "Rocker- og bandesituationen i Danmark", politikredsenes pressemeddelelser om opholds- og samlingsstedsforbud, Rigspolitiets svar til Folketingets Retsudvalg, Anklagemyndighedens meddelelser samt regional nyhedsdækning. Hver post indeholder `groups` med navn, type, status, periode og `evidence`, plus `source_note` og `confidence` på by-niveau.
+
+Væsentligt forbehold: der findes ingen offentlig, systematisk kortlægning af rocker- og bandegrupperingers tilstedeværelse fordelt på by. NSK's rapporter opgør kun landstal og navngiver konflikter uden geografi. By-fordelingen i denne fil er derfor udledt af klubhusadresser, myndighedsafgørelser og hændelsessteder, ikke af en officiel opgørelse. Aarhus er undtagelsen: Østjyllands Politi navngav i 2024 fire grupperinger med samlingssted i byen i et svar til Folketinget.
+
+Dækningen er ujævn. Aarhus, Aalborg og København har relativt god kildedækning; Næstved har kun én dokumenteret gruppering i perioden og er den svageste. Fravær af fund er ikke det samme som fravær af grupperinger, og antallet af grupperinger per by afspejler i høj grad, hvor meget der er blevet skrevet om byen, ikke nødvendigvis hvor mange grupperinger der faktisk er.
 
 ## Kendte begrænsninger
 
