@@ -68,19 +68,34 @@ export function renderMarkers(samples, onMarkerClick) {
     const radius = value === null ? 6 : 6 + 18 * (value / maxValue);
 
     const qualitative = qualitativeByCatchment[catchmentId];
-    const hasPresence = qualitative?.presence === true;
+    // Three states: true (coded present), false (coded absent), null/undefined
+    // (not yet coded). Uncoded must not render as coded-absent.
+    const presence = qualitative?.presence ?? null;
+
+    const groupCount =
+      qualitative?.group_count ?? qualitative?.groups?.length ?? 0;
+
+    // Outline weight encodes how many groups are coded for the city, so the
+    // qualitative layer carries more than a binary yes/no. Capped at 5px so
+    // a high count does not swallow the marker.
+    const outlineWeight =
+      presence === true ? Math.min(1 + groupCount, 5) : presence === false ? 1 : 1;
 
     const marker = L.circleMarker([lat, lon], {
       radius,
-      color: hasPresence ? "#c53030" : "#2b6cb0",
-      weight: hasPresence ? 2 : 1,
+      color: presence === true ? "#c53030" : "#2b6cb0",
+      weight: outlineWeight,
       fillColor: "#4299e1",
       fillOpacity: 0.6,
+      dashArray: presence === null ? "3 3" : null,
     });
 
-    const presenceLabel = hasPresence
-      ? " — kvalitativ kodning: tilstede"
-      : "";
+    const presenceLabel =
+      presence === true
+        ? ` — ${groupCount} grupperinger`
+        : presence === false
+        ? " — kodning: ikke tilstede"
+        : " — ikke kodet";
     marker.bindTooltip(
       `${feature.properties.city}: ${
         value === null ? "ingen data" : value.toFixed(1)
