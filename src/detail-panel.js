@@ -27,25 +27,83 @@ export function showDetailPanel(cityName, sample, qualitative) {
     const qualBlock = document.createElement("div");
     qualBlock.className = "qualitative-block";
 
+    const presence = qualitative.presence ?? null;
+
+    const groupCount =
+      qualitative.group_count ?? qualitative.groups?.length ?? 0;
+
     const qualHeading = document.createElement("p");
     qualHeading.className = "qualitative-heading";
-    qualHeading.textContent = qualitative.presence
-      ? "Kvalitativ kodning: rocker-/bandegruppering registreret tilstede"
-      : "Kvalitativ kodning: ingen registreret tilstedeværelse";
+    qualHeading.textContent =
+      presence === true
+        ? `Kvalitativ kodning (${
+            qualitative.period ?? "periode ikke angivet"
+          }): ${groupCount} grupperinger`
+        : presence === false
+        ? "Kvalitativ kodning: ingen registreret tilstedeværelse"
+        : "Kvalitativ kodning: ikke kodet endnu";
     qualBlock.appendChild(qualHeading);
 
-    if (qualitative.presence) {
-      const groupType = document.createElement("p");
-      groupType.className = "qualitative-detail";
-      groupType.textContent = qualitative.group_type ?? "";
-      qualBlock.appendChild(groupType);
+    if (presence === true && Array.isArray(qualitative.groups)) {
+      const list = document.createElement("ul");
+      list.className = "qualitative-groups";
+
+      for (const group of qualitative.groups) {
+        const item = document.createElement("li");
+        item.className = "qualitative-group";
+
+        const nameEl = document.createElement("span");
+        nameEl.className = "qualitative-group-name";
+        nameEl.textContent = group.name;
+        item.appendChild(nameEl);
+
+        const metaEl = document.createElement("span");
+        metaEl.className = "qualitative-group-meta";
+        metaEl.textContent = ` (${group.type ?? "type ukendt"}, ${
+          group.years ?? "periode ukendt"
+        })`;
+        item.appendChild(metaEl);
+
+        if (group.status) {
+          const statusEl = document.createElement("div");
+          statusEl.className = "qualitative-group-status";
+          statusEl.textContent = group.status;
+          item.appendChild(statusEl);
+        }
+
+        // Evidence text is long, so it sits behind a native disclosure
+        // element to keep the panel scannable.
+        if (group.evidence) {
+          const details = document.createElement("details");
+          const summary = document.createElement("summary");
+          summary.textContent = "Belæg";
+          details.appendChild(summary);
+          const evidenceEl = document.createElement("p");
+          evidenceEl.className = "qualitative-evidence";
+          evidenceEl.textContent = group.evidence;
+          details.appendChild(evidenceEl);
+          item.appendChild(details);
+        }
+
+        list.appendChild(item);
+      }
+
+      qualBlock.appendChild(list);
 
       const sourceNote = document.createElement("p");
       sourceNote.className = "qualitative-source";
-      sourceNote.textContent = `Kilde og forbehold: ${
-        qualitative.source_note ?? "ikke angivet"
-      } (${qualitative.confidence ?? "usikkerhed ikke angivet"})`;
+      const asOf = qualitative.as_of ? `Opdateret: ${qualitative.as_of}. ` : "";
+      sourceNote.textContent = `${asOf}Kilder: ${
+        qualitative.source_note || "ikke angivet"
+      }`;
       qualBlock.appendChild(sourceNote);
+
+      const confidenceNote = document.createElement("p");
+      confidenceNote.className = "qualitative-source";
+      confidenceNote.textContent = `Usikkerhed: ${
+        qualitative.confidence || "ikke angivet"
+      }`;
+      qualBlock.appendChild(confidenceNote);
     }
 
     panelEl.appendChild(qualBlock);
