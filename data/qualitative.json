@@ -1,50 +1,235 @@
 [
   {
     "catchment_id": "kbh-lynetten",
+    "city": "København",
     "presence": true,
-    "group_type": "Hells Angels MC (klubhuse i København NV og Kastrup)",
-    "source_note": "Opholdsforbud udstedt af Københavns Politi og Københavns Vestegns Politi, 2024, i forbindelse med konflikt mellem Hells Angels og LTF. Kilde: sn.dk, 'Hells Angels opsiger lejemål i klubhus i Nyborg' (nævner de københavnske adresser i samme sag).",
-    "as_of": "2024",
-    "confidence": "moderat, baseret på nyhedsdækning af politiets opholdsforbud, ikke en officiel kortlægning"
+    "period": "2021-2026",
+    "group_count": 5,
+    "groups": [
+      {
+        "name": "Hells Angels MC",
+        "type": "rocker",
+        "status": "aktiv",
+        "years": "2021-2026",
+        "evidence": "Klubhuse i København NV (Svanevej) og Kastrup. Klubhus angrebet med sprængladning sept. 2023. Opholdsforbud udstedt af Københavns Politi 2023 og forlænget 2024 under konflikt med LTF. Afdelingen CPH West i Rødovre optog i 2022 en større gruppe tidligere NNV-medlemmer."
+      },
+      {
+        "name": "Loyal To Familia (LTF)",
+        "type": "bande",
+        "status": "opløst ved dom, men fortsat aktiv",
+        "years": "2021-2026",
+        "evidence": "Opløst endeligt ved Højesteret sept. 2021. Optræder fortsat i NSK's konfliktregister: konflikt med NNV samt med A23, sidstnævnte afsluttet 26. marts 2026. I konflikt med Hells Angels 2023-2024."
+      },
+      {
+        "name": "NNV (Nørrebro Nordvest)",
+        "type": "bande",
+        "status": "selvopløst 2022, videreført som label i politiets konfliktregister",
+        "years": "2021-2026",
+        "evidence": "Base i miljøet omkring Mjølnerparken, Ydre Nørrebro. Nedlagde sig selv okt. 2022, medlemmer fordelt til flere Hells Angels-afdelinger. NSK opererer fortsat med en konflikt LTF-NNV, tidligere benævnt 'LTF - Unavngiven kriminel gruppe'."
+      },
+      {
+        "name": "Brothas",
+        "type": "bande",
+        "status": "splittet, delvist flyttet ud af København",
+        "years": "2021-2023",
+        "evidence": "Stiftet i Mjølnerparken. Efter intern splid delt i to fraktioner; den ene rykkede til Hundige/Greve. NNV udgår af samme splittelse."
+      },
+      {
+        "name": "Bandidos MC",
+        "type": "rocker",
+        "status": "opløst ved dom 29. okt. 2025, anket",
+        "years": "2021-2025",
+        "evidence": "Foreløbigt administrativt forbud 22. maj 2024; opløst ved Retten i Helsingør 29. okt. 2025. Marts 2026 blev 10 ledende medlemmer dømt ved Retten i Glostrup for at videreføre foreningen via møder jan.-apr. 2025."
+      }
+    ],
+    "source_note": "Sammenstillet fra NSK's rapporter 'Rocker- og bandesituationen i Danmark' (2025 og 1. kvartal 2025), Anklagemyndighedens meddelelse om Bandidos-dommen, DR, TV 2 Kosmopol og Se og Hør.",
+    "confidence": "moderat til høj. Grupperingerne er bekræftet i offentlige kilder, men fordeling på by-niveau er udledt af klubhusadresser og hændelsessteder, ikke af en officiel geografisk kortlægning.",
+    "as_of": "2026-06"
   },
   {
     "catchment_id": "aarhus",
+    "city": "Aarhus",
     "presence": true,
-    "group_type": "Bandidos MC, Hells Angels MC, Devils Choice MC, Cobra MC",
-    "source_note": "Østjyllands Politi bekræftede i svar til Folketingets Retsudvalg (2024), at alle fire grupperinger har samlingssteder i Aarhus, i forbindelse med Bandidos' nye klubhus samme år.",
-    "as_of": "2024",
-    "confidence": "høj, kilde er politiets officielle besvarelse til Folketinget"
+    "period": "2021-2026",
+    "group_count": 5,
+    "groups": [
+      {
+        "name": "Hells Angels MC",
+        "type": "rocker",
+        "status": "aktiv",
+        "years": "2021-2026",
+        "evidence": "Klubhus Marøgelhøj 5, Lystrup. Opholdsforbud udstedt af Østjyllands Politi sept. 2023 under konflikt med LTF. Bekræftet af Østjyllands Politi i svar til Folketingets Retsudvalg 2024."
+      },
+      {
+        "name": "Bandidos MC",
+        "type": "rocker",
+        "status": "opløst ved dom 29. okt. 2025, anket",
+        "years": "2024-2025",
+        "evidence": "Etablerede nyt klubhus i Aarhus ultimo jan. 2024, hvilket udløste dialog mellem Aarhus Kommune og Østjyllands Politi om samlingsstedsloven samt et folketingsspørgsmål til justitsministeren."
+      },
+      {
+        "name": "Comanches MC",
+        "type": "rocker",
+        "status": "aktiv",
+        "years": "2025-2026",
+        "evidence": "Rykkede ind i Viby juni 2025; borgmester Anders Winnerskjold (S) reagerede offentligt. Klubhuset ransaget af Østjyllands Politi sept. 2025 med sigtelser for våben og rusmidler. Comanches er den omdøbte Satudarah."
+      },
+      {
+        "name": "Devils Choice MC",
+        "type": "rocker",
+        "status": "aktiv",
+        "years": "2024",
+        "evidence": "Bekræftet af Østjyllands Politi som havende samlingssted i Aarhus, i Rigspolitiets svar til Folketingets Retsudvalg 2024."
+      },
+      {
+        "name": "Cobra MC",
+        "type": "rocker",
+        "status": "aktiv",
+        "years": "2024",
+        "evidence": "Bekræftet af Østjyllands Politi som havende samlingssted i Aarhus, i Rigspolitiets svar til Folketingets Retsudvalg 2024."
+      }
+    ],
+    "source_note": "Primærkilde er Rigspolitiets/Østjyllands Politis svar til Folketingets Retsudvalg 2024 (ft.dk), som navngiver fire grupperinger med samlingssted i Aarhus. Suppleret med TV2 Østjylland og Din Avis.",
+    "confidence": "høj. Aarhus er den eneste af de seks byer med en officiel, navngiven politiopgørelse over grupperinger med samlingssted i byen.",
+    "as_of": "2026-06"
   },
   {
     "catchment_id": "odense",
+    "city": "Odense",
     "presence": true,
-    "group_type": "Hells Angels MC (Petersmindevej)",
-    "source_note": "Hells Angels har haft adresse i Odense siden midt-1990'erne. Samlingsstedsforbud udstedt 2023 grundet bandekonflikt (Odense Kommune, By- og Kulturudvalget). Satudarah holdt ude af byen siden 2017.",
-    "as_of": "2023",
-    "confidence": "høj for Hells Angels, baseret på kommunalt dagsordenpunkt og TV2 Fyn-dækning"
+    "period": "2021-2026",
+    "group_count": 4,
+    "groups": [
+      {
+        "name": "Hells Angels MC",
+        "type": "rocker",
+        "status": "aktiv, klubhus under opholdsforbud",
+        "years": "2021-2026",
+        "evidence": "Klubhus Petersmindevej 20. Opholdsforbud udstedt af Fyns Politi 25. sept. 2023 under konflikt med LTF, efterfølgende forlænget. Samlingsstedsforbud behandlet i Odense Kommunes By- og Kulturudvalg okt. 2023."
+      },
+      {
+        "name": "NBV",
+        "type": "bande",
+        "status": "aktiv, konflikt afsluttet",
+        "years": "2024",
+        "evidence": "Lokal Odense-bande. I konflikt med VO efteråret 2024; 19. sept. 2024 løsnede VO-medlemmer skud mod bil med NBV-medlemmer i Tornbjerg. NSK vurderede efterfølgende konflikten som afsluttet."
+      },
+      {
+        "name": "VO",
+        "type": "bande",
+        "status": "aktiv, konflikt afsluttet",
+        "years": "2024",
+        "evidence": "Lokal Odense-bande, modpart til NBV i konflikten efteråret 2024, herunder eksplosion på Bredagerløkken natten til 22. sept. 2024."
+      },
+      {
+        "name": "Inmortales MC Beldringe (Prospect Chapter)",
+        "type": "rocker (støttegruppe)",
+        "status": "aktiv, forbud ophævet af Planklagenævnet",
+        "years": "2024-2026",
+        "evidence": "Bekræftet af Fyns Politi som støtteklub for Bandidos. Odense Kommune udstedte midlertidigt opholdsforbud 14. aug. 2025; Planklagenævnet ophævede det med henvisning til utilstrækkeligt grundlag. Borgmester Peter Rahbæk Juel (S) søgte fornyet lukning efter Bandidos-dommen okt. 2025."
+      }
+    ],
+    "source_note": "Fyns Politis pressemeddelelse sept. 2023, Odense Kommunes By- og Kulturudvalg okt. 2023, TV 2 Fyn 2024-2025.",
+    "confidence": "moderat til høj. Hells Angels og Inmortales er dokumenteret ved adresse og myndighedsafgørelse. NBV og VO er navngivet af NSK og TV 2 Fyn, men uden offentligt tilgængelig opgørelse af størrelse eller territorium.",
+    "as_of": "2026-06"
   },
   {
     "catchment_id": "aalborg",
+    "city": "Aalborg",
     "presence": true,
-    "group_type": "Hells Angels MC (Nørresundby)",
-    "source_note": "Nordjyllands Politi forlængede i 2024 opholdsforbud på Hells Angels' klubhus i Nørresundby grundet risiko for væbnet angreb fra LTF.",
-    "as_of": "2024",
-    "confidence": "moderat, baseret på nyhedsdækning af politiets opholdsforbud"
+    "period": "2021-2026",
+    "group_count": 5,
+    "groups": [
+      {
+        "name": "Hells Angels MC",
+        "type": "rocker",
+        "status": "aktiv",
+        "years": "2021-2026",
+        "evidence": "Klubhus i Nørresundby. Opholdsforbud forlænget af Nordjyllands Politi 2024 under konflikt mellem Hells Angels og LTF."
+      },
+      {
+        "name": "Comanches MC (tidl. Satudarah)",
+        "type": "rocker",
+        "status": "aktiv, klubhus under opholdsforbud",
+        "years": "2022-2026",
+        "evidence": "Satudarah etablerede sig i Aalborg i højere grad end tidligere primo 2022, hvorefter Nordjyllands Politi bekræftede tre rockergrupper i byen. Comanches' klubhus Lerbækvej 47, Vodskov (Rærup) blev pålagt midlertidigt opholdsforbud 31. marts 2026 grundet konfliktniveau over for persongruppe med tilknytning til LTF."
+      },
+      {
+        "name": "GT Gruppen",
+        "type": "bande",
+        "status": "aktiv, konflikt afsluttet jan. 2026",
+        "years": "2021-2026",
+        "evidence": "Ifølge Nordjyllands Politi har GT fyldt i Aalborgs gadebillede i tre til fem år forud for 2024. Omtalt som decideret bande fra aug. 2024. Konflikt med A12 registreret af NSK og afsluttet 5. jan. 2026."
+      },
+      {
+        "name": "Afdeling 12 (A12)",
+        "type": "bande",
+        "status": "aktiv, konflikt afsluttet jan. 2026",
+        "years": "2024-2026",
+        "evidence": "Beskrevet af Nordjyllands Politi som en sammenslutning af kriminelle uden for GT og som modpol til denne. Omtalt som decideret bande fra aug. 2024 efter knivstik, skyderi og overfald i Aalborg."
+      },
+      {
+        "name": "AK81",
+        "type": "rocker (støttegruppe)",
+        "status": "aktiv",
+        "years": "2021-2026",
+        "evidence": "Nævnt af Nordjyllands Politi blandt de etablerede grupperinger i Aalborgområdet sammen med Bandidos, Hells Angels og Comanches."
+      }
+    ],
+    "source_note": "Nordjyllands Politis pressemeddelelse marts 2026, TV2 Nord aug. 2024, Nordjyske marts 2022, NSK's årsrapport 2025.",
+    "confidence": "moderat til høj. Aalborg har relativt god dækning, fordi Nordjyllands Politi i 2024 gik offentligt ud med en navngiven karakteristik af GT og A12.",
+    "as_of": "2026-06"
   },
   {
     "catchment_id": "esbjerg",
+    "city": "Esbjerg",
     "presence": true,
-    "group_type": "Satudarah (klubhus i Sædding, lukket 2024)",
-    "source_note": "Syd- og Sønderjyllands Politi og Esbjerg Kommune besluttede i fællesskab i 2024 at lukke Satudarahs klubhus i Sædding. Tilstedeværelsen var altså aktiv frem til lukningen.",
-    "as_of": "2024",
-    "confidence": "høj, baseret på politiets og kommunens fælles udmelding"
+    "period": "2021-2026",
+    "group_count": 3,
+    "groups": [
+      {
+        "name": "Comanches MC (tidl. Satudarah)",
+        "type": "rocker",
+        "status": "aktiv, to chapters",
+        "years": "2022-2026",
+        "evidence": "Satudarah oprettede klubhus Brolæggervej 12, Sædding, efteråret 2022; Esbjerg Kommune udstedte samlingsstedsforbud marts 2023 efter samarbejde med Syd- og Sønderjyllands Politi. Under navnet Comanches MC holdt gruppen til på samme adresse indtil efteråret 2024, hvor et permanent samlingsstedsforbud blev udstedt. Politiet oplyste dec. 2025, at Comanches Westend og Comanches Central City fortsat holder til i Esbjerg."
+      },
+      {
+        "name": "Hells Angels MC",
+        "type": "rocker",
+        "status": "tilstedeværelse dokumenteret, men ikke verificeret for hele perioden",
+        "years": "usikker",
+        "evidence": "Klubhus historisk på Ingemanns Allé. Nyeste fundne kilde for Esbjerg-afdelingen er fra før 2021, så tilstedeværelsen i perioden 2021-2026 er ikke bekræftet i denne research."
+      },
+      {
+        "name": "Bandidos MC",
+        "type": "rocker",
+        "status": "opløst ved dom 29. okt. 2025, anket",
+        "years": "usikker",
+        "evidence": "Esbjerg-afdelingen blev historisk et fuldgyldigt chapter. Tilstedeværelse specifikt i perioden 2021-2026 er ikke bekræftet i denne research; gruppen blev landsdækkende forbudt maj 2024 og opløst okt. 2025."
+      }
+    ],
+    "source_note": "Syd- og Sønderjyllands Politis pressemeddelelse marts 2023, tvSyd dec. 2025, DR marts 2023.",
+    "confidence": "moderat. Comanches er velbelyst gennem myndighedsafgørelser. Hells Angels og Bandidos i Esbjerg hviler på ældre kilder og bør verificeres, før de indgår i analysen.",
+    "as_of": "2026-06"
   },
   {
     "catchment_id": "naestved",
+    "city": "Næstved",
     "presence": true,
-    "group_type": "Bandidos MC (flere adresser over tid, senest Ringstedgade 229A)",
-    "source_note": "Sydsjællands og Lolland-Falsters Politi lukkede i 2021 et Bandidos-tilknyttet klubhus på Ringstedgade 229A grundet konflikten mellem Bandidos og NNV. Ældre kilder (2013-2014) dokumenterer længerevarende Bandidos- og Hells Angels-tilstedeværelse i byen.",
-    "as_of": "2021",
-    "confidence": "moderat, nyeste kilde er fra 2021, ikke opdateret for 2024-2025"
+    "period": "2021-2026",
+    "group_count": 1,
+    "groups": [
+      {
+        "name": "Bandidos MC",
+        "type": "rocker",
+        "status": "opløst ved dom 29. okt. 2025, anket",
+        "years": "2021-2024",
+        "evidence": "Klubhus Ringstedgade 229A. Sydsjællands og Lolland-Falsters Politi lukkede adressen 28. jan. 2021 grundet konflikten mellem Bandidos MC og NNV. Politiforretning på adressen maj 2022. Efter det foreløbige forbud maj 2024 var samtlige skilte fjernet fra adressen pr. juni 2024. Beslægtet adresse: Flakkebjerg Stationsvej 10B."
+      }
+    ],
+    "source_note": "Sydsjællands og Lolland-Falsters Politis pressemeddelelse jan. 2021, TV2 ØST maj 2022, marts 2024 og juni 2024.",
+    "confidence": "lav til moderat. Næstved er den svagest dækkede af de seks byer. Kun én gruppering kunne dokumenteres i perioden, og dens tilstedeværelse ophørte reelt med forbuddet i 2024. Fravær af fund i denne research er ikke det samme som fravær af grupperinger.",
+    "as_of": "2026-06"
   }
 ]
