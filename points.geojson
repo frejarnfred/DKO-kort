@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6091,
+          55.7048
+        ]
+      },
+      "properties": {
+        "catchment_id": "kbh-lynetten",
+        "city": "København",
+        "population": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2039,
+          56.1629
+        ]
+      },
+      "properties": {
+        "catchment_id": "aarhus",
+        "city": "Aarhus",
+        "population": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4024,
+          55.4038
+        ]
+      },
+      "properties": {
+        "catchment_id": "odense",
+        "city": "Odense",
+        "population": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9217,
+          57.0488
+        ]
+      },
+      "properties": {
+        "catchment_id": "aalborg",
+        "city": "Aalborg",
+        "population": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4594,
+          55.4765
+        ]
+      },
+      "properties": {
+        "catchment_id": "esbjerg",
+        "city": "Esbjerg",
+        "population": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7607,
+          55.2299
+        ]
+      },
+      "properties": {
+        "catchment_id": "naestved",
+        "city": "Næstved",
+        "population": null
+      }
+    }
+  ]
+}

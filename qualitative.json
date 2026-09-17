@@ -1,0 +1,50 @@
+[
+  {
+    "catchment_id": "kbh-lynetten",
+    "presence": true,
+    "group_type": "Hells Angels MC (klubhuse i København NV og Kastrup)",
+    "source_note": "Opholdsforbud udstedt af Københavns Politi og Københavns Vestegns Politi, 2024, i forbindelse med konflikt mellem Hells Angels og LTF. Kilde: sn.dk, 'Hells Angels opsiger lejemål i klubhus i Nyborg' (nævner de københavnske adresser i samme sag).",
+    "as_of": "2024",
+    "confidence": "moderat, baseret på nyhedsdækning af politiets opholdsforbud, ikke en officiel kortlægning"
+  },
+  {
+    "catchment_id": "aarhus",
+    "presence": true,
+    "group_type": "Bandidos MC, Hells Angels MC, Devils Choice MC, Cobra MC",
+    "source_note": "Østjyllands Politi bekræftede i svar til Folketingets Retsudvalg (2024), at alle fire grupperinger har samlingssteder i Aarhus, i forbindelse med Bandidos' nye klubhus samme år.",
+    "as_of": "2024",
+    "confidence": "høj, kilde er politiets officielle besvarelse til Folketinget"
+  },
+  {
+    "catchment_id": "odense",
+    "presence": true,
+    "group_type": "Hells Angels MC (Petersmindevej)",
+    "source_note": "Hells Angels har haft adresse i Odense siden midt-1990'erne. Samlingsstedsforbud udstedt 2023 grundet bandekonflikt (Odense Kommune, By- og Kulturudvalget). Satudarah holdt ude af byen siden 2017.",
+    "as_of": "2023",
+    "confidence": "høj for Hells Angels, baseret på kommunalt dagsordenpunkt og TV2 Fyn-dækning"
+  },
+  {
+    "catchment_id": "aalborg",
+    "presence": true,
+    "group_type": "Hells Angels MC (Nørresundby)",
+    "source_note": "Nordjyllands Politi forlængede i 2024 opholdsforbud på Hells Angels' klubhus i Nørresundby grundet risiko for væbnet angreb fra LTF.",
+    "as_of": "2024",
+    "confidence": "moderat, baseret på nyhedsdækning af politiets opholdsforbud"
+  },
+  {
+    "catchment_id": "esbjerg",
+    "presence": true,
+    "group_type": "Satudarah (klubhus i Sædding, lukket 2024)",
+    "source_note": "Syd- og Sønderjyllands Politi og Esbjerg Kommune besluttede i fællesskab i 2024 at lukke Satudarahs klubhus i Sædding. Tilstedeværelsen var altså aktiv frem til lukningen.",
+    "as_of": "2024",
+    "confidence": "høj, baseret på politiets og kommunens fælles udmelding"
+  },
+  {
+    "catchment_id": "naestved",
+    "presence": true,
+    "group_type": "Bandidos MC (flere adresser over tid, senest Ringstedgade 229A)",
+    "source_note": "Sydsjællands og Lolland-Falsters Politi lukkede i 2021 et Bandidos-tilknyttet klubhus på Ringstedgade 229A grundet konflikten mellem Bandidos og NNV. Ældre kilder (2013-2014) dokumenterer længerevarende Bandidos- og Hells Angels-tilstedeværelse i byen.",
+    "as_of": "2021",
+    "confidence": "moderat, nyeste kilde er fra 2021, ikke opdateret for 2024-2025"
+  }
+]

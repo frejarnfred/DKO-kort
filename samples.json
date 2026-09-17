@@ -1,0 +1,2402 @@
+[
+  {
+    "sample_id": "dk-aalborg-2024-MDMA",
+    "catchment_id": "aalborg",
+    "substance": "MDMA",
+    "year": 2024,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 12.48,
+      "thursday": 9.82,
+      "friday": 15.0,
+      "saturday": 16.15,
+      "sunday": 21.03,
+      "monday": 37.78,
+      "tuesday": 16.43
+    },
+    "weekday_mean": 12.91,
+    "weekend_mean": 22.49,
+    "daily_mean": 18.38
+  },
+  {
+    "sample_id": "dk-aalborg-2025-MDMA",
+    "catchment_id": "aalborg",
+    "substance": "MDMA",
+    "year": 2025,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 12.41,
+      "thursday": 11.11,
+      "friday": 10.31,
+      "saturday": 21.88,
+      "sunday": 28.44,
+      "monday": 8.85,
+      "tuesday": 8.51
+    },
+    "weekday_mean": 10.68,
+    "weekend_mean": 17.37,
+    "daily_mean": 14.5
+  },
+  {
+    "sample_id": "dk-aalborg-2024-amphetamine",
+    "catchment_id": "aalborg",
+    "substance": "amphetamine",
+    "year": 2024,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 114.86,
+      "thursday": 117.82,
+      "friday": 114.61,
+      "saturday": 105.13,
+      "sunday": 103.36,
+      "monday": 128.37,
+      "tuesday": 105.18
+    },
+    "weekday_mean": 112.62,
+    "weekend_mean": 112.87,
+    "daily_mean": 112.76
+  },
+  {
+    "sample_id": "dk-aalborg-2025-amphetamine",
+    "catchment_id": "aalborg",
+    "substance": "amphetamine",
+    "year": 2025,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 114.4,
+      "thursday": 109.8,
+      "friday": 100.75,
+      "saturday": 117.14,
+      "sunday": 125.52,
+      "monday": 104.57,
+      "tuesday": 118.03
+    },
+    "weekday_mean": 114.08,
+    "weekend_mean": 112.0,
+    "daily_mean": 112.89
+  },
+  {
+    "sample_id": "dk-aalborg-2024-cannabis",
+    "catchment_id": "aalborg",
+    "substance": "cannabis",
+    "year": 2024,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 77.87,
+      "thursday": 83.2,
+      "friday": 125.86,
+      "saturday": 76.62,
+      "sunday": 101.26,
+      "monday": 114.49,
+      "tuesday": 55.05
+    },
+    "weekday_mean": 72.04,
+    "weekend_mean": 104.56,
+    "daily_mean": 90.62
+  },
+  {
+    "sample_id": "dk-aalborg-2025-cannabis",
+    "catchment_id": "aalborg",
+    "substance": "cannabis",
+    "year": 2025,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 92.08,
+      "thursday": 98.95,
+      "friday": 93.28,
+      "saturday": 92.17,
+      "sunday": 103.07,
+      "monday": 102.64,
+      "tuesday": 103.48
+    },
+    "weekday_mean": 98.17,
+    "weekend_mean": 97.79,
+    "daily_mean": 97.95
+  },
+  {
+    "sample_id": "dk-aalborg-2024-cocaine",
+    "catchment_id": "aalborg",
+    "substance": "cocaine",
+    "year": 2024,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 311.04,
+      "thursday": 347.78,
+      "friday": 537.16,
+      "saturday": 728.38,
+      "sunday": 773.42,
+      "monday": 424.04,
+      "tuesday": 294.99
+    },
+    "weekday_mean": 317.94,
+    "weekend_mean": 615.75,
+    "daily_mean": 488.12
+  },
+  {
+    "sample_id": "dk-aalborg-2025-cocaine",
+    "catchment_id": "aalborg",
+    "substance": "cocaine",
+    "year": 2025,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 664.38,
+      "thursday": 599.27,
+      "friday": 693.9,
+      "saturday": 932.0,
+      "sunday": 917.23,
+      "monday": 582.63,
+      "tuesday": 665.08
+    },
+    "weekday_mean": 642.91,
+    "weekend_mean": 781.44,
+    "daily_mean": 722.07
+  },
+  {
+    "sample_id": "dk-aalborg-2025-cot",
+    "catchment_id": "aalborg",
+    "substance": "cot",
+    "year": 2025,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 929.02,
+      "thursday": 958.56,
+      "friday": 968.83,
+      "saturday": 1040.39,
+      "sunday": 996.04,
+      "monday": 870.35,
+      "tuesday": 964.28
+    },
+    "weekday_mean": 950.62,
+    "weekend_mean": 968.9,
+    "daily_mean": 961.07
+  },
+  {
+    "sample_id": "dk-aalborg-2025-ets",
+    "catchment_id": "aalborg",
+    "substance": "ets",
+    "year": 2025,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 2927.39,
+      "thursday": 3086.3,
+      "friday": 4006.74,
+      "saturday": 7059.01,
+      "sunday": 6400.28,
+      "monday": 2749.36,
+      "tuesday": 2815.42
+    },
+    "weekday_mean": 2943.04,
+    "weekend_mean": 5053.85,
+    "daily_mean": 4149.21
+  },
+  {
+    "sample_id": "dk-aalborg-2024-ketamine",
+    "catchment_id": "aalborg",
+    "substance": "ketamine",
+    "year": 2024,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 24.09,
+      "thursday": 28.94,
+      "friday": 38.02,
+      "saturday": 35.73,
+      "sunday": 36.06,
+      "monday": 28.53,
+      "tuesday": 21.36
+    },
+    "weekday_mean": 24.8,
+    "weekend_mean": 34.58,
+    "daily_mean": 30.39
+  },
+  {
+    "sample_id": "dk-aalborg-2025-ketamine",
+    "catchment_id": "aalborg",
+    "substance": "ketamine",
+    "year": 2025,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 68.92,
+      "thursday": 56.36,
+      "friday": 63.13,
+      "saturday": 78.01,
+      "sunday": 55.32,
+      "monday": 58.37,
+      "tuesday": 68.62
+    },
+    "weekday_mean": 64.63,
+    "weekend_mean": 63.71,
+    "daily_mean": 64.1
+  },
+  {
+    "sample_id": "dk-aalborg-2024-methamphetamine",
+    "catchment_id": "aalborg",
+    "substance": "methamphetamine",
+    "year": 2024,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 4.3,
+      "thursday": 3.62,
+      "friday": 3.75,
+      "saturday": 3.78,
+      "sunday": 4.51,
+      "monday": 5.78,
+      "tuesday": 4.11
+    },
+    "weekday_mean": 4.01,
+    "weekend_mean": 4.45,
+    "daily_mean": 4.26
+  },
+  {
+    "sample_id": "dk-aalborg-2025-methamphetamine",
+    "catchment_id": "aalborg",
+    "substance": "methamphetamine",
+    "year": 2025,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 1.38,
+      "thursday": 1.32,
+      "friday": 1.55,
+      "saturday": 2.06,
+      "sunday": 2.87,
+      "monday": 2.49,
+      "tuesday": 1.92
+    },
+    "weekday_mean": 1.54,
+    "weekend_mean": 2.24,
+    "daily_mean": 1.94
+  },
+  {
+    "sample_id": "dk-aarhus-2023-MDMA",
+    "catchment_id": "aarhus",
+    "substance": "MDMA",
+    "year": 2023,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 5.33,
+      "thursday": 4.45,
+      "friday": 31.71,
+      "saturday": 30.95,
+      "sunday": 31.98,
+      "monday": 12.54,
+      "tuesday": 6.92
+    },
+    "weekday_mean": 5.57,
+    "weekend_mean": 26.79,
+    "daily_mean": 17.7
+  },
+  {
+    "sample_id": "dk-aarhus-2024-MDMA",
+    "catchment_id": "aarhus",
+    "substance": "MDMA",
+    "year": 2024,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 6.35,
+      "thursday": 4.95,
+      "friday": 1.95,
+      "saturday": 30.14,
+      "sunday": 27.36,
+      "monday": 11.18,
+      "tuesday": 4.38
+    },
+    "weekday_mean": 5.23,
+    "weekend_mean": 17.66,
+    "daily_mean": 12.33
+  },
+  {
+    "sample_id": "dk-aarhus-2025-MDMA",
+    "catchment_id": "aarhus",
+    "substance": "MDMA",
+    "year": 2025,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 3.96,
+      "thursday": 3.89,
+      "friday": 5.25,
+      "saturday": 12.48,
+      "sunday": 7.02,
+      "monday": 5.21,
+      "tuesday": 6.93
+    },
+    "weekday_mean": 4.93,
+    "weekend_mean": 7.49,
+    "daily_mean": 6.39
+  },
+  {
+    "sample_id": "dk-aarhus-2023-amphetamine",
+    "catchment_id": "aarhus",
+    "substance": "amphetamine",
+    "year": 2023,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 77.16,
+      "thursday": 76.32,
+      "friday": 95.29,
+      "saturday": 82.05,
+      "sunday": 82.2,
+      "monday": 90.81,
+      "tuesday": 79.42
+    },
+    "weekday_mean": 77.63,
+    "weekend_mean": 87.58,
+    "daily_mean": 83.32
+  },
+  {
+    "sample_id": "dk-aarhus-2024-amphetamine",
+    "catchment_id": "aarhus",
+    "substance": "amphetamine",
+    "year": 2024,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 70.61,
+      "thursday": 110.72,
+      "friday": 37.0,
+      "saturday": 108.97,
+      "sunday": 70.17,
+      "monday": 71.25,
+      "tuesday": 49.99
+    },
+    "weekday_mean": 77.11,
+    "weekend_mean": 71.85,
+    "daily_mean": 74.1
+  },
+  {
+    "sample_id": "dk-aarhus-2025-amphetamine",
+    "catchment_id": "aarhus",
+    "substance": "amphetamine",
+    "year": 2025,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 84.92,
+      "thursday": 82.04,
+      "friday": 80.97,
+      "saturday": 73.07,
+      "sunday": 89.63,
+      "monday": 75.48,
+      "tuesday": 83.38
+    },
+    "weekday_mean": 83.45,
+    "weekend_mean": 79.79,
+    "daily_mean": 81.36
+  },
+  {
+    "sample_id": "dk-aarhus-2024-cannabis",
+    "catchment_id": "aarhus",
+    "substance": "cannabis",
+    "year": 2024,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 72.08,
+      "thursday": 56.69,
+      "friday": 80.49,
+      "saturday": 58.35,
+      "sunday": 57.56,
+      "monday": 75.04,
+      "tuesday": 58.5
+    },
+    "weekday_mean": 62.42,
+    "weekend_mean": 67.86,
+    "daily_mean": 65.53
+  },
+  {
+    "sample_id": "dk-aarhus-2025-cannabis",
+    "catchment_id": "aarhus",
+    "substance": "cannabis",
+    "year": 2025,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 61.67,
+      "thursday": 58.53,
+      "friday": 51.84,
+      "saturday": 56.25,
+      "sunday": 61.28,
+      "monday": 55.3,
+      "tuesday": 74.52
+    },
+    "weekday_mean": 64.91,
+    "weekend_mean": 56.17,
+    "daily_mean": 59.91
+  },
+  {
+    "sample_id": "dk-aarhus-2024-cocaine",
+    "catchment_id": "aarhus",
+    "substance": "cocaine",
+    "year": 2024,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 180.56,
+      "thursday": 184.72,
+      "friday": 198.63,
+      "saturday": 514.71,
+      "sunday": 423.5,
+      "monday": 312.25,
+      "tuesday": 196.11
+    },
+    "weekday_mean": 187.13,
+    "weekend_mean": 362.27,
+    "daily_mean": 287.21
+  },
+  {
+    "sample_id": "dk-aarhus-2025-cocaine",
+    "catchment_id": "aarhus",
+    "substance": "cocaine",
+    "year": 2025,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 335.4,
+      "thursday": 281.31,
+      "friday": 298.15,
+      "saturday": 407.3,
+      "sunday": 382.82,
+      "monday": 335.02,
+      "tuesday": 272.47
+    },
+    "weekday_mean": 296.39,
+    "weekend_mean": 355.82,
+    "daily_mean": 330.35
+  },
+  {
+    "sample_id": "dk-aarhus-2025-cot",
+    "catchment_id": "aarhus",
+    "substance": "cot",
+    "year": 2025,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 779.97,
+      "thursday": 730.26,
+      "friday": 683.87,
+      "saturday": 658.89,
+      "sunday": 657.12,
+      "monday": 632.88,
+      "tuesday": 773.88
+    },
+    "weekday_mean": 761.37,
+    "weekend_mean": 658.19,
+    "daily_mean": 702.41
+  },
+  {
+    "sample_id": "dk-aarhus-2025-ets",
+    "catchment_id": "aarhus",
+    "substance": "ets",
+    "year": 2025,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 2516.19,
+      "thursday": 2591.91,
+      "friday": 3842.7,
+      "saturday": 7275.42,
+      "sunday": 4883.58,
+      "monday": 2747.53,
+      "tuesday": 2154.11
+    },
+    "weekday_mean": 2420.74,
+    "weekend_mean": 4687.31,
+    "daily_mean": 3715.92
+  },
+  {
+    "sample_id": "dk-aarhus-2023-ketamine",
+    "catchment_id": "aarhus",
+    "substance": "ketamine",
+    "year": 2023,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 3.02,
+      "thursday": 2.57,
+      "friday": 4.24,
+      "saturday": 4.75,
+      "sunday": 9.21,
+      "monday": 4.77,
+      "tuesday": 5.88
+    },
+    "weekday_mean": 3.82,
+    "weekend_mean": 5.74,
+    "daily_mean": 4.92
+  },
+  {
+    "sample_id": "dk-aarhus-2024-ketamine",
+    "catchment_id": "aarhus",
+    "substance": "ketamine",
+    "year": 2024,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 1.71,
+      "thursday": 3.61,
+      "friday": 1.95,
+      "saturday": 4.44,
+      "sunday": 4.62,
+      "monday": 5.95,
+      "tuesday": 1.55
+    },
+    "weekday_mean": 2.29,
+    "weekend_mean": 4.24,
+    "daily_mean": 3.4
+  },
+  {
+    "sample_id": "dk-aarhus-2025-ketamine",
+    "catchment_id": "aarhus",
+    "substance": "ketamine",
+    "year": 2025,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 4.78,
+      "thursday": 3.4,
+      "friday": 2.37,
+      "saturday": 5.25,
+      "sunday": 2.97,
+      "monday": 2.52,
+      "tuesday": 6.16
+    },
+    "weekday_mean": 4.78,
+    "weekend_mean": 3.28,
+    "daily_mean": 3.92
+  },
+  {
+    "sample_id": "dk-aarhus-2023-methamphetamine",
+    "catchment_id": "aarhus",
+    "substance": "methamphetamine",
+    "year": 2023,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 1.42,
+      "thursday": 1.54,
+      "friday": 3.22,
+      "saturday": 1.8,
+      "sunday": 1.34,
+      "monday": 1.41,
+      "tuesday": 1.9
+    },
+    "weekday_mean": 1.62,
+    "weekend_mean": 1.94,
+    "daily_mean": 1.81
+  },
+  {
+    "sample_id": "dk-aarhus-2024-methamphetamine",
+    "catchment_id": "aarhus",
+    "substance": "methamphetamine",
+    "year": 2024,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 1.95,
+      "thursday": 7.8,
+      "friday": 3.89,
+      "saturday": 17.78,
+      "sunday": 7.28,
+      "monday": 2.89,
+      "tuesday": 5.41
+    },
+    "weekday_mean": 5.06,
+    "weekend_mean": 7.96,
+    "daily_mean": 6.72
+  },
+  {
+    "sample_id": "dk-aarhus-2025-methamphetamine",
+    "catchment_id": "aarhus",
+    "substance": "methamphetamine",
+    "year": 2025,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 1.65,
+      "thursday": 2.27,
+      "friday": 0.68,
+      "saturday": 0.54,
+      "sunday": 0.54,
+      "monday": 0.34,
+      "tuesday": 2.12
+    },
+    "weekday_mean": 2.01,
+    "weekend_mean": 0.52,
+    "daily_mean": 1.16
+  },
+  {
+    "sample_id": "dk-esbjerg-2024-MDMA",
+    "catchment_id": "esbjerg",
+    "substance": "MDMA",
+    "year": 2024,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 2.7,
+      "thursday": 2.59,
+      "friday": 3.73,
+      "saturday": 6.21,
+      "sunday": 10.72,
+      "monday": 10.71,
+      "tuesday": 10.18
+    },
+    "weekday_mean": 5.16,
+    "weekend_mean": 7.84,
+    "daily_mean": 6.69
+  },
+  {
+    "sample_id": "dk-esbjerg-2025-MDMA",
+    "catchment_id": "esbjerg",
+    "substance": "MDMA",
+    "year": 2025,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 15.68,
+      "thursday": 8.99,
+      "friday": 8.64,
+      "saturday": 20.1,
+      "sunday": 33.32,
+      "monday": 13.97,
+      "tuesday": 12.18
+    },
+    "weekday_mean": 12.28,
+    "weekend_mean": 19.01,
+    "daily_mean": 16.12
+  },
+  {
+    "sample_id": "dk-esbjerg-2024-amphetamine",
+    "catchment_id": "esbjerg",
+    "substance": "amphetamine",
+    "year": 2024,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 213.47,
+      "thursday": 204.48,
+      "friday": 200.91,
+      "saturday": 190.26,
+      "sunday": 199.82,
+      "monday": 182.15,
+      "tuesday": 207.96
+    },
+    "weekday_mean": 208.63,
+    "weekend_mean": 193.28,
+    "daily_mean": 199.86
+  },
+  {
+    "sample_id": "dk-esbjerg-2025-amphetamine",
+    "catchment_id": "esbjerg",
+    "substance": "amphetamine",
+    "year": 2025,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 370.55,
+      "thursday": 256.43,
+      "friday": 331.14,
+      "saturday": 303.22,
+      "sunday": 260.93,
+      "monday": 233.7,
+      "tuesday": 300.09
+    },
+    "weekday_mean": 309.03,
+    "weekend_mean": 282.25,
+    "daily_mean": 293.72
+  },
+  {
+    "sample_id": "dk-esbjerg-2024-cannabis",
+    "catchment_id": "esbjerg",
+    "substance": "cannabis",
+    "year": 2024,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 117.99,
+      "thursday": 146.12,
+      "friday": 96.52,
+      "saturday": 96.29,
+      "sunday": 87.28,
+      "monday": 135.44,
+      "tuesday": 98.67
+    },
+    "weekday_mean": 120.93,
+    "weekend_mean": 103.88,
+    "daily_mean": 111.19
+  },
+  {
+    "sample_id": "dk-esbjerg-2025-cannabis",
+    "catchment_id": "esbjerg",
+    "substance": "cannabis",
+    "year": 2025,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 139.19,
+      "thursday": 140.05,
+      "friday": 156.47,
+      "saturday": 118.41,
+      "sunday": 134.57,
+      "monday": 153.62,
+      "tuesday": 117.05
+    },
+    "weekday_mean": 132.1,
+    "weekend_mean": 140.77,
+    "daily_mean": 137.05
+  },
+  {
+    "sample_id": "dk-esbjerg-2024-cocaine",
+    "catchment_id": "esbjerg",
+    "substance": "cocaine",
+    "year": 2024,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 311.65,
+      "thursday": 324.23,
+      "friday": 301.15,
+      "saturday": 403.81,
+      "sunday": 524.82,
+      "monday": 452.16,
+      "tuesday": 360.6
+    },
+    "weekday_mean": 332.16,
+    "weekend_mean": 420.49,
+    "daily_mean": 382.63
+  },
+  {
+    "sample_id": "dk-esbjerg-2025-cocaine",
+    "catchment_id": "esbjerg",
+    "substance": "cocaine",
+    "year": 2025,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 519.25,
+      "thursday": 482.59,
+      "friday": 671.38,
+      "saturday": 1058.65,
+      "sunday": 767.64,
+      "monday": 552.12,
+      "tuesday": 486.27
+    },
+    "weekday_mean": 496.04,
+    "weekend_mean": 762.45,
+    "daily_mean": 648.27
+  },
+  {
+    "sample_id": "dk-esbjerg-2025-cot",
+    "catchment_id": "esbjerg",
+    "substance": "cot",
+    "year": 2025,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 1319.26,
+      "thursday": 1044.19,
+      "friday": 1344.12,
+      "saturday": 1293.28,
+      "sunday": 1055.4,
+      "monday": 1122.39,
+      "tuesday": 1066.82
+    },
+    "weekday_mean": 1143.42,
+    "weekend_mean": 1203.8,
+    "daily_mean": 1177.92
+  },
+  {
+    "sample_id": "dk-esbjerg-2025-ets",
+    "catchment_id": "esbjerg",
+    "substance": "ets",
+    "year": 2025,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 3845.66,
+      "thursday": 3529.53,
+      "friday": 5499.27,
+      "saturday": 8398.9,
+      "sunday": 5630.51,
+      "monday": 3909.98,
+      "tuesday": 3042.95
+    },
+    "weekday_mean": 3472.71,
+    "weekend_mean": 5859.67,
+    "daily_mean": 4836.69
+  },
+  {
+    "sample_id": "dk-esbjerg-2024-ketamine",
+    "catchment_id": "esbjerg",
+    "substance": "ketamine",
+    "year": 2024,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 10.81,
+      "thursday": 3.89,
+      "friday": 3.31,
+      "saturday": 3.49,
+      "sunday": 5.74,
+      "monday": 12.0,
+      "tuesday": 7.96
+    },
+    "weekday_mean": 7.55,
+    "weekend_mean": 6.14,
+    "daily_mean": 6.74
+  },
+  {
+    "sample_id": "dk-esbjerg-2025-ketamine",
+    "catchment_id": "esbjerg",
+    "substance": "ketamine",
+    "year": 2025,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 21.38,
+      "thursday": 35.01,
+      "friday": 16.83,
+      "saturday": 15.73,
+      "sunday": 14.28,
+      "monday": 8.85,
+      "tuesday": 4.32
+    },
+    "weekday_mean": 20.24,
+    "weekend_mean": 13.92,
+    "daily_mean": 16.63
+  },
+  {
+    "sample_id": "dk-esbjerg-2024-methamphetamine",
+    "catchment_id": "esbjerg",
+    "substance": "methamphetamine",
+    "year": 2024,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 2.7,
+      "thursday": 3.46,
+      "friday": 2.07,
+      "saturday": 1.94,
+      "sunday": 2.68,
+      "monday": 3.0,
+      "tuesday": 2.21
+    },
+    "weekday_mean": 2.79,
+    "weekend_mean": 2.42,
+    "daily_mean": 2.58
+  },
+  {
+    "sample_id": "dk-esbjerg-2025-methamphetamine",
+    "catchment_id": "esbjerg",
+    "substance": "methamphetamine",
+    "year": 2025,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 6.65,
+      "thursday": 3.79,
+      "friday": 11.37,
+      "saturday": 7.43,
+      "sunday": 3.89,
+      "monday": 9.31,
+      "tuesday": 3.54
+    },
+    "weekday_mean": 4.66,
+    "weekend_mean": 8.0,
+    "daily_mean": 6.57
+  },
+  {
+    "sample_id": "dk-kbh-lynetten-2013-MDMA",
+    "catchment_id": "kbh-lynetten",
+    "substance": "MDMA",
+    "year": 2013,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 9.98,
+      "thursday": 8.05,
+      "friday": 23.88,
+      "saturday": 10.81,
+      "sunday": 48.12,
+      "monday": 26.22,
+      "tuesday": null
+    },
+    "weekday_mean": 9.08,
+    "weekend_mean": 27.26,
+    "daily_mean": 19.47
+  },
+  {
+    "sample_id": "dk-kbh-lynetten-2014-MDMA",
+    "catchment_id": "kbh-lynetten",
+    "substance": "MDMA",
+    "year": 2014,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 0.99,
+      "thursday": 1.0,
+      "friday": 49.32,
+      "saturday": 57.62,
+      "sunday": 86.31,
+      "monday": 1.21,
+      "tuesday": 0.99
+    },
+    "weekday_mean": 0.99,
+    "weekend_mean": 48.61,
+    "daily_mean": 28.21
+  },
+  {
+    "sample_id": "dk-kbh-lynetten-2015-MDMA",
+    "catchment_id": "kbh-lynetten",
+    "substance": "MDMA",
+    "year": 2015,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 53.22,
+      "thursday": 33.54,
+      "friday": 26.89,
+      "saturday": 24.55,
+      "sunday": 45.66,
+      "monday": 85.12,
+      "tuesday": 102.61
+    },
+    "weekday_mean": 37.88,
+    "weekend_mean": 64.48,
+    "daily_mean": 53.08
+  },
+  {
+    "sample_id": "dk-kbh-lynetten-2018-MDMA",
+    "catchment_id": "kbh-lynetten",
+    "substance": "MDMA",
+    "year": 2018,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 10.92,
+      "thursday": 9.43,
+      "friday": 8.85,
+      "saturday": 32.72,
+      "sunday": 32.64,
+      "monday": 18.6,
+      "tuesday": 14.59
+    },
+    "weekday_mean": 11.64,
+    "weekend_mean": 23.2,
+    "daily_mean": 18.25
+  },
+  {
+    "sample_id": "dk-kbh-lynetten-2019-MDMA",
+    "catchment_id": "kbh-lynetten",
+    "substance": "MDMA",
+    "year": 2019,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 10.31,
+      "thursday": 4.99,
+      "friday": 10.88,
+      "saturday": 36.87,
+      "sunday": 135.42,
+      "monday": 22.34,
+      "tuesday": 37.54
+    },
+    "weekday_mean": 17.61,
+    "weekend_mean": 51.38,
+    "daily_mean": 36.91
+  },
+  {
+    "sample_id": "dk-kbh-lynetten-2021-MDMA",
+    "catchment_id": "kbh-lynetten",
+    "substance": "MDMA",
+    "year": 2021,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 18.06,
+      "thursday": 18.19,
+      "friday": 18.31,
+      "saturday": 56.83,
+      "sunday": 70.31,
+      "monday": 37.13,
+      "tuesday": 23.73
+    },
+    "weekday_mean": 19.57,
+    "weekend_mean": 54.75,
+    "daily_mean": 34.65
+  },
+  {
+    "sample_id": "dk-kbh-lynetten-2022-MDMA",
+    "catchment_id": "kbh-lynetten",
+    "substance": "MDMA",
+    "year": 2022,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 11.02,
+      "thursday": 10.1,
+      "friday": 15.27,
+      "saturday": 48.16,
+      "sunday": 66.67,
+      "monday": 38.81,
+      "tuesday": 14.69
+    },
+    "weekday_mean": 11.94,
+    "weekend_mean": 42.23,
+    "daily_mean": 29.25
+  },
+  {
+    "sample_id": "dk-kbh-lynetten-2024-MDMA",
+    "catchment_id": "kbh-lynetten",
+    "substance": "MDMA",
+    "year": 2024,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 18.52,
+      "thursday": 28.16,
+      "friday": 22.74,
+      "saturday": 64.23,
+      "sunday": 65.1,
+      "monday": 36.35,
+      "tuesday": 23.9
+    },
+    "weekday_mean": 23.53,
+    "weekend_mean": 47.11,
+    "daily_mean": 37.0
+  },
+  {
+    "sample_id": "dk-kbh-lynetten-2025-MDMA",
+    "catchment_id": "kbh-lynetten",
+    "substance": "MDMA",
+    "year": 2025,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 14.85,
+      "thursday": 13.35,
+      "friday": 18.67,
+      "saturday": 63.03,
+      "sunday": 90.44,
+      "monday": 35.44,
+      "tuesday": 21.87
+    },
+    "weekday_mean": 16.69,
+    "weekend_mean": 51.9,
+    "daily_mean": 36.81
+  },
+  {
+    "sample_id": "dk-kbh-lynetten-2013-amphetamine",
+    "catchment_id": "kbh-lynetten",
+    "substance": "amphetamine",
+    "year": 2013,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 27.89,
+      "thursday": 30.9,
+      "friday": 35.32,
+      "saturday": 30.28,
+      "sunday": 37.22,
+      "monday": 27.45,
+      "tuesday": null
+    },
+    "weekday_mean": 28.08,
+    "weekend_mean": 32.57,
+    "daily_mean": 30.64
+  },
+  {
+    "sample_id": "dk-kbh-lynetten-2015-amphetamine",
+    "catchment_id": "kbh-lynetten",
+    "substance": "amphetamine",
+    "year": 2015,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 8.12,
+      "thursday": 8.24,
+      "friday": 8.04,
+      "saturday": 7.91,
+      "sunday": 7.93,
+      "monday": 55.01,
+      "tuesday": 7.5
+    },
+    "weekday_mean": 8.13,
+    "weekend_mean": 19.59,
+    "daily_mean": 14.68
+  },
+  {
+    "sample_id": "dk-kbh-lynetten-2018-amphetamine",
+    "catchment_id": "kbh-lynetten",
+    "substance": "amphetamine",
+    "year": 2018,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 55.32,
+      "thursday": 56.16,
+      "friday": 56.26,
+      "saturday": 67.0,
+      "sunday": 51.79,
+      "monday": 67.0,
+      "tuesday": 62.63
+    },
+    "weekday_mean": 58.04,
+    "weekend_mean": 60.51,
+    "daily_mean": 59.45
+  },
+  {
+    "sample_id": "dk-kbh-lynetten-2019-amphetamine",
+    "catchment_id": "kbh-lynetten",
+    "substance": "amphetamine",
+    "year": 2019,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 71.25,
+      "thursday": 32.22,
+      "friday": 62.05,
+      "saturday": 69.78,
+      "sunday": 140.12,
+      "monday": 70.05,
+      "tuesday": 74.43
+    },
+    "weekday_mean": 59.3,
+    "weekend_mean": 85.5,
+    "daily_mean": 74.27
+  },
+  {
+    "sample_id": "dk-kbh-lynetten-2021-amphetamine",
+    "catchment_id": "kbh-lynetten",
+    "substance": "amphetamine",
+    "year": 2021,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 88.3,
+      "thursday": 91.82,
+      "friday": 90.51,
+      "saturday": 100.45,
+      "sunday": 85.65,
+      "monday": 85.39,
+      "tuesday": 98.43
+    },
+    "weekday_mean": 92.26,
+    "weekend_mean": 90.5,
+    "daily_mean": 91.51
+  },
+  {
+    "sample_id": "dk-kbh-lynetten-2022-amphetamine",
+    "catchment_id": "kbh-lynetten",
+    "substance": "amphetamine",
+    "year": 2022,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 63.67,
+      "thursday": 61.03,
+      "friday": 72.96,
+      "saturday": 80.27,
+      "sunday": 76.94,
+      "monday": 69.48,
+      "tuesday": 69.76
+    },
+    "weekday_mean": 64.82,
+    "weekend_mean": 74.91,
+    "daily_mean": 70.59
+  },
+  {
+    "sample_id": "dk-kbh-lynetten-2024-amphetamine",
+    "catchment_id": "kbh-lynetten",
+    "substance": "amphetamine",
+    "year": 2024,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 91.4,
+      "thursday": 95.31,
+      "friday": 98.4,
+      "saturday": 109.82,
+      "sunday": 88.47,
+      "monday": 93.63,
+      "tuesday": 93.44
+    },
+    "weekday_mean": 93.38,
+    "weekend_mean": 97.58,
+    "daily_mean": 95.78
+  },
+  {
+    "sample_id": "dk-kbh-lynetten-2025-amphetamine",
+    "catchment_id": "kbh-lynetten",
+    "substance": "amphetamine",
+    "year": 2025,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 98.66,
+      "thursday": 100.7,
+      "friday": 106.42,
+      "saturday": 108.01,
+      "sunday": 107.66,
+      "monday": 88.83,
+      "tuesday": 107.16
+    },
+    "weekday_mean": 102.18,
+    "weekend_mean": 102.73,
+    "daily_mean": 102.49
+  },
+  {
+    "sample_id": "dk-kbh-lynetten-2024-cannabis",
+    "catchment_id": "kbh-lynetten",
+    "substance": "cannabis",
+    "year": 2024,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 124.11,
+      "thursday": 122.03,
+      "friday": 99.23,
+      "saturday": 163.17,
+      "sunday": 110.84,
+      "monday": 117.51,
+      "tuesday": 126.52
+    },
+    "weekday_mean": 124.22,
+    "weekend_mean": 122.69,
+    "daily_mean": 123.35
+  },
+  {
+    "sample_id": "dk-kbh-lynetten-2025-cannabis",
+    "catchment_id": "kbh-lynetten",
+    "substance": "cannabis",
+    "year": 2025,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 91.21,
+      "thursday": 84.12,
+      "friday": 91.08,
+      "saturday": 90.77,
+      "sunday": 123.26,
+      "monday": 89.83,
+      "tuesday": 111.3
+    },
+    "weekday_mean": 95.54,
+    "weekend_mean": 98.74,
+    "daily_mean": 97.37
+  },
+  {
+    "sample_id": "dk-kbh-lynetten-2013-cocaine",
+    "catchment_id": "kbh-lynetten",
+    "substance": "cocaine",
+    "year": 2013,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 171.71,
+      "thursday": 184.61,
+      "friday": 322.89,
+      "saturday": 191.27,
+      "sunday": 308.16,
+      "monday": 184.26,
+      "tuesday": null
+    },
+    "weekday_mean": 174.43,
+    "weekend_mean": 251.64,
+    "daily_mean": 218.55
+  },
+  {
+    "sample_id": "dk-kbh-lynetten-2014-cocaine",
+    "catchment_id": "kbh-lynetten",
+    "substance": "cocaine",
+    "year": 2014,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 275.25,
+      "thursday": 304.94,
+      "friday": 334.38,
+      "saturday": 451.76,
+      "sunday": 495.45,
+      "monday": 258.65,
+      "tuesday": 272.17
+    },
+    "weekday_mean": 284.12,
+    "weekend_mean": 385.06,
+    "daily_mean": 341.8
+  },
+  {
+    "sample_id": "dk-kbh-lynetten-2015-cocaine",
+    "catchment_id": "kbh-lynetten",
+    "substance": "cocaine",
+    "year": 2015,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 338.62,
+      "thursday": 243.32,
+      "friday": 150.22,
+      "saturday": 243.31,
+      "sunday": 382.82,
+      "monday": 515.62,
+      "tuesday": 486.17
+    },
+    "weekday_mean": 244.05,
+    "weekend_mean": 406.98,
+    "daily_mean": 337.15
+  },
+  {
+    "sample_id": "dk-kbh-lynetten-2018-cocaine",
+    "catchment_id": "kbh-lynetten",
+    "substance": "cocaine",
+    "year": 2018,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 361.86,
+      "thursday": 336.52,
+      "friday": 446.2,
+      "saturday": 649.9,
+      "sunday": 582.35,
+      "monday": 369.45,
+      "tuesday": 513.74
+    },
+    "weekday_mean": 404.04,
+    "weekend_mean": 511.98,
+    "daily_mean": 465.72
+  },
+  {
+    "sample_id": "dk-kbh-lynetten-2019-cocaine",
+    "catchment_id": "kbh-lynetten",
+    "substance": "cocaine",
+    "year": 2019,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 387.78,
+      "thursday": 189.6,
+      "friday": 465.14,
+      "saturday": 704.98,
+      "sunday": 1502.31,
+      "monday": 447.59,
+      "tuesday": 500.57
+    },
+    "weekday_mean": 359.31,
+    "weekend_mean": 780.0,
+    "daily_mean": 599.71
+  },
+  {
+    "sample_id": "dk-kbh-lynetten-2021-cocaine",
+    "catchment_id": "kbh-lynetten",
+    "substance": "cocaine",
+    "year": 2021,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 440.4,
+      "thursday": 445.22,
+      "friday": 511.73,
+      "saturday": 780.71,
+      "sunday": 680.88,
+      "monday": 448.1,
+      "tuesday": 426.44
+    },
+    "weekday_mean": 455.95,
+    "weekend_mean": 636.56,
+    "daily_mean": 533.35
+  },
+  {
+    "sample_id": "dk-kbh-lynetten-2022-cocaine",
+    "catchment_id": "kbh-lynetten",
+    "substance": "cocaine",
+    "year": 2022,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 438.92,
+      "thursday": 405.0,
+      "friday": 726.99,
+      "saturday": 1029.23,
+      "sunday": 884.93,
+      "monday": 607.44,
+      "tuesday": 438.94
+    },
+    "weekday_mean": 427.62,
+    "weekend_mean": 812.15,
+    "daily_mean": 647.35
+  },
+  {
+    "sample_id": "dk-kbh-lynetten-2024-cocaine",
+    "catchment_id": "kbh-lynetten",
+    "substance": "cocaine",
+    "year": 2024,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 422.85,
+      "thursday": 472.96,
+      "friday": 492.0,
+      "saturday": 844.85,
+      "sunday": 624.58,
+      "monday": 524.79,
+      "tuesday": 457.08
+    },
+    "weekday_mean": 450.96,
+    "weekend_mean": 621.56,
+    "daily_mean": 548.44
+  },
+  {
+    "sample_id": "dk-kbh-lynetten-2025-cocaine",
+    "catchment_id": "kbh-lynetten",
+    "substance": "cocaine",
+    "year": 2025,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 509.61,
+      "thursday": 524.92,
+      "friday": 672.04,
+      "saturday": 980.44,
+      "sunday": 1008.2,
+      "monday": 662.12,
+      "tuesday": 518.0
+    },
+    "weekday_mean": 517.51,
+    "weekend_mean": 830.7,
+    "daily_mean": 696.48
+  },
+  {
+    "sample_id": "dk-kbh-lynetten-2025-cot",
+    "catchment_id": "kbh-lynetten",
+    "substance": "cot",
+    "year": 2025,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 883.23,
+      "thursday": 869.13,
+      "friday": 994.96,
+      "saturday": 963.67,
+      "sunday": 1017.77,
+      "monday": 796.74,
+      "tuesday": 907.25
+    },
+    "weekday_mean": 886.54,
+    "weekend_mean": 943.28,
+    "daily_mean": 918.96
+  },
+  {
+    "sample_id": "dk-kbh-lynetten-2025-ets",
+    "catchment_id": "kbh-lynetten",
+    "substance": "ets",
+    "year": 2025,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 3112.92,
+      "thursday": 3467.55,
+      "friday": 4940.8,
+      "saturday": 9227.16,
+      "sunday": 8610.04,
+      "monday": 3389.82,
+      "tuesday": 2914.15
+    },
+    "weekday_mean": 3164.87,
+    "weekend_mean": 6541.95,
+    "daily_mean": 5094.63
+  },
+  {
+    "sample_id": "dk-kbh-lynetten-2022-ketamine",
+    "catchment_id": "kbh-lynetten",
+    "substance": "ketamine",
+    "year": 2022,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 13.05,
+      "thursday": 14.15,
+      "friday": 18.44,
+      "saturday": 22.94,
+      "sunday": 22.15,
+      "monday": 14.36,
+      "tuesday": 12.65
+    },
+    "weekday_mean": 13.28,
+    "weekend_mean": 19.47,
+    "daily_mean": 16.82
+  },
+  {
+    "sample_id": "dk-kbh-lynetten-2024-ketamine",
+    "catchment_id": "kbh-lynetten",
+    "substance": "ketamine",
+    "year": 2024,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 30.55,
+      "thursday": 29.36,
+      "friday": 28.73,
+      "saturday": 52.32,
+      "sunday": 36.95,
+      "monday": 28.32,
+      "tuesday": 27.88
+    },
+    "weekday_mean": 29.26,
+    "weekend_mean": 36.58,
+    "daily_mean": 33.44
+  },
+  {
+    "sample_id": "dk-kbh-lynetten-2025-ketamine",
+    "catchment_id": "kbh-lynetten",
+    "substance": "ketamine",
+    "year": 2025,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 35.04,
+      "thursday": 38.76,
+      "friday": 40.58,
+      "saturday": 41.99,
+      "sunday": 54.53,
+      "monday": 43.04,
+      "tuesday": 40.04
+    },
+    "weekday_mean": 37.95,
+    "weekend_mean": 45.03,
+    "daily_mean": 42.0
+  },
+  {
+    "sample_id": "dk-kbh-lynetten-2013-methamphetamine",
+    "catchment_id": "kbh-lynetten",
+    "substance": "methamphetamine",
+    "year": 2013,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 9.98,
+      "thursday": 9.61,
+      "friday": 10.7,
+      "saturday": 8.41,
+      "sunday": 10.67,
+      "monday": 9.89,
+      "tuesday": null
+    },
+    "weekday_mean": 9.6,
+    "weekend_mean": 9.92,
+    "daily_mean": 9.78
+  },
+  {
+    "sample_id": "dk-kbh-lynetten-2014-methamphetamine",
+    "catchment_id": "kbh-lynetten",
+    "substance": "methamphetamine",
+    "year": 2014,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 0.0,
+      "thursday": 0.0,
+      "friday": 0.0,
+      "saturday": 0.0,
+      "sunday": 0.0,
+      "monday": 0.0,
+      "tuesday": 0.0
+    },
+    "weekday_mean": 0.0,
+    "weekend_mean": 0.0,
+    "daily_mean": 0.0
+  },
+  {
+    "sample_id": "dk-kbh-lynetten-2015-methamphetamine",
+    "catchment_id": "kbh-lynetten",
+    "substance": "methamphetamine",
+    "year": 2015,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 13.44,
+      "thursday": 11.65,
+      "friday": 11.09,
+      "saturday": 10.37,
+      "sunday": 11.21,
+      "monday": 13.75,
+      "tuesday": 10.08
+    },
+    "weekday_mean": 12.06,
+    "weekend_mean": 11.35,
+    "daily_mean": 11.66
+  },
+  {
+    "sample_id": "dk-kbh-lynetten-2018-methamphetamine",
+    "catchment_id": "kbh-lynetten",
+    "substance": "methamphetamine",
+    "year": 2018,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 17.51,
+      "thursday": 11.55,
+      "friday": 11.6,
+      "saturday": 21.03,
+      "sunday": 17.26,
+      "monday": 15.58,
+      "tuesday": 19.01
+    },
+    "weekday_mean": 16.02,
+    "weekend_mean": 16.37,
+    "daily_mean": 16.22
+  },
+  {
+    "sample_id": "dk-kbh-lynetten-2019-methamphetamine",
+    "catchment_id": "kbh-lynetten",
+    "substance": "methamphetamine",
+    "year": 2019,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 19.68,
+      "thursday": 8.81,
+      "friday": 20.99,
+      "saturday": 21.73,
+      "sunday": 46.89,
+      "monday": 21.31,
+      "tuesday": 26.31
+    },
+    "weekday_mean": 18.27,
+    "weekend_mean": 27.73,
+    "daily_mean": 23.68
+  },
+  {
+    "sample_id": "dk-kbh-lynetten-2021-methamphetamine",
+    "catchment_id": "kbh-lynetten",
+    "substance": "methamphetamine",
+    "year": 2021,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 40.36,
+      "thursday": 39.63,
+      "friday": 41.95,
+      "saturday": 46.55,
+      "sunday": 40.44,
+      "monday": 45.29,
+      "tuesday": 46.14
+    },
+    "weekday_mean": 42.02,
+    "weekend_mean": 44.1,
+    "daily_mean": 42.91
+  },
+  {
+    "sample_id": "dk-kbh-lynetten-2022-methamphetamine",
+    "catchment_id": "kbh-lynetten",
+    "substance": "methamphetamine",
+    "year": 2022,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 22.27,
+      "thursday": 21.42,
+      "friday": 25.38,
+      "saturday": 29.63,
+      "sunday": 29.45,
+      "monday": 25.23,
+      "tuesday": 23.05
+    },
+    "weekday_mean": 22.25,
+    "weekend_mean": 27.42,
+    "daily_mean": 25.2
+  },
+  {
+    "sample_id": "dk-kbh-lynetten-2024-methamphetamine",
+    "catchment_id": "kbh-lynetten",
+    "substance": "methamphetamine",
+    "year": 2024,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 24.77,
+      "thursday": 22.38,
+      "friday": 24.19,
+      "saturday": 29.53,
+      "sunday": 23.88,
+      "monday": 26.84,
+      "tuesday": 26.04
+    },
+    "weekday_mean": 24.4,
+    "weekend_mean": 26.11,
+    "daily_mean": 25.38
+  },
+  {
+    "sample_id": "dk-kbh-lynetten-2025-methamphetamine",
+    "catchment_id": "kbh-lynetten",
+    "substance": "methamphetamine",
+    "year": 2025,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 28.49,
+      "thursday": 30.05,
+      "friday": 32.05,
+      "saturday": 33.2,
+      "sunday": 42.84,
+      "monday": 33.07,
+      "tuesday": 29.35
+    },
+    "weekday_mean": 29.3,
+    "weekend_mean": 35.29,
+    "daily_mean": 32.72
+  },
+  {
+    "sample_id": "dk-naestved-2024-MDMA",
+    "catchment_id": "naestved",
+    "substance": "MDMA",
+    "year": 2024,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 5.62,
+      "thursday": 5.84,
+      "friday": 5.52,
+      "saturday": 9.42,
+      "sunday": 12.26,
+      "monday": 5.36,
+      "tuesday": 5.84
+    },
+    "weekday_mean": 5.77,
+    "weekend_mean": 8.14,
+    "daily_mean": 7.12
+  },
+  {
+    "sample_id": "dk-naestved-2025-MDMA",
+    "catchment_id": "naestved",
+    "substance": "MDMA",
+    "year": 2025,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 10.08,
+      "thursday": 10.12,
+      "friday": 9.4,
+      "saturday": 14.89,
+      "sunday": null,
+      "monday": 9.11,
+      "tuesday": 7.82
+    },
+    "weekday_mean": 9.34,
+    "weekend_mean": 11.13,
+    "daily_mean": 10.24
+  },
+  {
+    "sample_id": "dk-naestved-2024-amphetamine",
+    "catchment_id": "naestved",
+    "substance": "amphetamine",
+    "year": 2024,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 175.05,
+      "thursday": 187.17,
+      "friday": 187.01,
+      "saturday": 186.43,
+      "sunday": 191.91,
+      "monday": 178.02,
+      "tuesday": 149.07
+    },
+    "weekday_mean": 170.43,
+    "weekend_mean": 185.84,
+    "daily_mean": 179.24
+  },
+  {
+    "sample_id": "dk-naestved-2025-amphetamine",
+    "catchment_id": "naestved",
+    "substance": "amphetamine",
+    "year": 2025,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 161.94,
+      "thursday": 172.03,
+      "friday": 171.58,
+      "saturday": 179.82,
+      "sunday": null,
+      "monday": 160.8,
+      "tuesday": 158.18
+    },
+    "weekday_mean": 164.05,
+    "weekend_mean": 170.73,
+    "daily_mean": 167.39
+  },
+  {
+    "sample_id": "dk-naestved-2024-cannabis",
+    "catchment_id": "naestved",
+    "substance": "cannabis",
+    "year": 2024,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 89.63,
+      "thursday": 91.5,
+      "friday": 91.67,
+      "saturday": 95.94,
+      "sunday": 93.58,
+      "monday": 101.56,
+      "tuesday": 90.94
+    },
+    "weekday_mean": 90.69,
+    "weekend_mean": 95.69,
+    "daily_mean": 93.55
+  },
+  {
+    "sample_id": "dk-naestved-2025-cannabis",
+    "catchment_id": "naestved",
+    "substance": "cannabis",
+    "year": 2025,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 72.53,
+      "thursday": 72.38,
+      "friday": 65.32,
+      "saturday": 68.02,
+      "sunday": null,
+      "monday": 67.79,
+      "tuesday": 71.94
+    },
+    "weekday_mean": 72.28,
+    "weekend_mean": 67.04,
+    "daily_mean": 69.66
+  },
+  {
+    "sample_id": "dk-naestved-2024-cocaine",
+    "catchment_id": "naestved",
+    "substance": "cocaine",
+    "year": 2024,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 256.25,
+      "thursday": 243.35,
+      "friday": 333.84,
+      "saturday": 352.53,
+      "sunday": 348.28,
+      "monday": 301.59,
+      "tuesday": 246.97
+    },
+    "weekday_mean": 248.86,
+    "weekend_mean": 334.06,
+    "daily_mean": 297.54
+  },
+  {
+    "sample_id": "dk-naestved-2025-cocaine",
+    "catchment_id": "naestved",
+    "substance": "cocaine",
+    "year": 2025,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 352.15,
+      "thursday": 333.95,
+      "friday": 400.65,
+      "saturday": 533.9,
+      "sunday": null,
+      "monday": 394.27,
+      "tuesday": 320.82
+    },
+    "weekday_mean": 335.64,
+    "weekend_mean": 442.94,
+    "daily_mean": 389.29
+  },
+  {
+    "sample_id": "dk-naestved-2025-cot",
+    "catchment_id": "naestved",
+    "substance": "cot",
+    "year": 2025,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 951.48,
+      "thursday": 935.18,
+      "friday": 910.46,
+      "saturday": 933.1,
+      "sunday": null,
+      "monday": 837.26,
+      "tuesday": 933.2
+    },
+    "weekday_mean": 939.95,
+    "weekend_mean": 893.61,
+    "daily_mean": 916.78
+  },
+  {
+    "sample_id": "dk-naestved-2025-ets",
+    "catchment_id": "naestved",
+    "substance": "ets",
+    "year": 2025,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 2186.3,
+      "thursday": 2277.56,
+      "friday": 2657.55,
+      "saturday": 4193.4,
+      "sunday": null,
+      "monday": 2406.08,
+      "tuesday": 2109.25
+    },
+    "weekday_mean": 2191.04,
+    "weekend_mean": 3085.68,
+    "daily_mean": 2638.36
+  },
+  {
+    "sample_id": "dk-naestved-2024-ketamine",
+    "catchment_id": "naestved",
+    "substance": "ketamine",
+    "year": 2024,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 12.93,
+      "thursday": 16.13,
+      "friday": 7.09,
+      "saturday": 13.88,
+      "sunday": 15.01,
+      "monday": 16.08,
+      "tuesday": 21.97
+    },
+    "weekday_mean": 17.01,
+    "weekend_mean": 13.02,
+    "daily_mean": 14.73
+  },
+  {
+    "sample_id": "dk-naestved-2025-ketamine",
+    "catchment_id": "naestved",
+    "substance": "ketamine",
+    "year": 2025,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 15.56,
+      "thursday": 25.08,
+      "friday": 19.46,
+      "saturday": 20.89,
+      "sunday": null,
+      "monday": 9.32,
+      "tuesday": 17.87
+    },
+    "weekday_mean": 19.5,
+    "weekend_mean": 16.56,
+    "daily_mean": 18.03
+  },
+  {
+    "sample_id": "dk-naestved-2024-methamphetamine",
+    "catchment_id": "naestved",
+    "substance": "methamphetamine",
+    "year": 2024,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 0.84,
+      "thursday": 0.83,
+      "friday": 0.79,
+      "saturday": 0.74,
+      "sunday": 1.5,
+      "monday": 0.85,
+      "tuesday": 0.83
+    },
+    "weekday_mean": 0.84,
+    "weekend_mean": 0.97,
+    "daily_mean": 0.91
+  },
+  {
+    "sample_id": "dk-naestved-2025-methamphetamine",
+    "catchment_id": "naestved",
+    "substance": "methamphetamine",
+    "year": 2025,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 2.19,
+      "thursday": 3.3,
+      "friday": 2.24,
+      "saturday": 4.45,
+      "sunday": null,
+      "monday": 2.75,
+      "tuesday": 3.35
+    },
+    "weekday_mean": 2.95,
+    "weekend_mean": 3.15,
+    "daily_mean": 3.05
+  },
+  {
+    "sample_id": "dk-odense-2021-MDMA",
+    "catchment_id": "odense",
+    "substance": "MDMA",
+    "year": 2021,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 6.84,
+      "thursday": 8.68,
+      "friday": 11.85,
+      "saturday": 13.58,
+      "sunday": 14.17,
+      "monday": 12.74,
+      "tuesday": 11.79
+    },
+    "weekday_mean": 9.79,
+    "weekend_mean": 13.5,
+    "daily_mean": 11.38
+  },
+  {
+    "sample_id": "dk-odense-2024-MDMA",
+    "catchment_id": "odense",
+    "substance": "MDMA",
+    "year": 2024,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 5.81,
+      "thursday": 6.54,
+      "friday": 10.63,
+      "saturday": 12.45,
+      "sunday": 17.55,
+      "monday": 10.27,
+      "tuesday": 6.93
+    },
+    "weekday_mean": 6.43,
+    "weekend_mean": 12.72,
+    "daily_mean": 10.03
+  },
+  {
+    "sample_id": "dk-odense-2025-MDMA",
+    "catchment_id": "odense",
+    "substance": "MDMA",
+    "year": 2025,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 3.45,
+      "thursday": 4.2,
+      "friday": 6.67,
+      "saturday": 8.64,
+      "sunday": 9.73,
+      "monday": 8.23,
+      "tuesday": 3.17
+    },
+    "weekday_mean": 3.61,
+    "weekend_mean": 8.32,
+    "daily_mean": 6.3
+  },
+  {
+    "sample_id": "dk-odense-2021-amphetamine",
+    "catchment_id": "odense",
+    "substance": "amphetamine",
+    "year": 2021,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 84.04,
+      "thursday": 90.87,
+      "friday": 82.43,
+      "saturday": 79.08,
+      "sunday": 47.96,
+      "monday": 122.6,
+      "tuesday": 128.22
+    },
+    "weekday_mean": 96.39,
+    "weekend_mean": 83.21,
+    "daily_mean": 90.74
+  },
+  {
+    "sample_id": "dk-odense-2024-amphetamine",
+    "catchment_id": "odense",
+    "substance": "amphetamine",
+    "year": 2024,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 107.35,
+      "thursday": 134.14,
+      "friday": 134.44,
+      "saturday": 113.03,
+      "sunday": 109.66,
+      "monday": 111.26,
+      "tuesday": 142.79
+    },
+    "weekday_mean": 128.09,
+    "weekend_mean": 117.1,
+    "daily_mean": 121.81
+  },
+  {
+    "sample_id": "dk-odense-2025-amphetamine",
+    "catchment_id": "odense",
+    "substance": "amphetamine",
+    "year": 2025,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 126.07,
+      "thursday": 142.54,
+      "friday": 131.62,
+      "saturday": 135.55,
+      "sunday": 119.51,
+      "monday": 126.08,
+      "tuesday": 120.58
+    },
+    "weekday_mean": 129.73,
+    "weekend_mean": 128.19,
+    "daily_mean": 128.85
+  },
+  {
+    "sample_id": "dk-odense-2024-cannabis",
+    "catchment_id": "odense",
+    "substance": "cannabis",
+    "year": 2024,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 73.8,
+      "thursday": 86.93,
+      "friday": 73.86,
+      "saturday": 52.36,
+      "sunday": 91.49,
+      "monday": 91.07,
+      "tuesday": 79.33
+    },
+    "weekday_mean": 80.02,
+    "weekend_mean": 77.2,
+    "daily_mean": 78.41
+  },
+  {
+    "sample_id": "dk-odense-2025-cannabis",
+    "catchment_id": "odense",
+    "substance": "cannabis",
+    "year": 2025,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 76.26,
+      "thursday": 91.2,
+      "friday": 87.56,
+      "saturday": 83.93,
+      "sunday": 90.79,
+      "monday": 97.03,
+      "tuesday": 80.06
+    },
+    "weekday_mean": 82.51,
+    "weekend_mean": 89.83,
+    "daily_mean": 86.69
+  },
+  {
+    "sample_id": "dk-odense-2021-cocaine",
+    "catchment_id": "odense",
+    "substance": "cocaine",
+    "year": 2021,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 208.32,
+      "thursday": 316.01,
+      "friday": 320.29,
+      "saturday": 362.63,
+      "sunday": 250.16,
+      "monday": 320.27,
+      "tuesday": 288.36
+    },
+    "weekday_mean": 283.24,
+    "weekend_mean": 311.02,
+    "daily_mean": 295.15
+  },
+  {
+    "sample_id": "dk-odense-2024-cocaine",
+    "catchment_id": "odense",
+    "substance": "cocaine",
+    "year": 2024,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 256.75,
+      "thursday": 288.85,
+      "friday": 462.84,
+      "saturday": 647.18,
+      "sunday": 664.26,
+      "monday": 273.54,
+      "tuesday": 253.02
+    },
+    "weekday_mean": 266.2,
+    "weekend_mean": 511.96,
+    "daily_mean": 406.63
+  },
+  {
+    "sample_id": "dk-odense-2025-cocaine",
+    "catchment_id": "odense",
+    "substance": "cocaine",
+    "year": 2025,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 351.55,
+      "thursday": 393.4,
+      "friday": 504.07,
+      "saturday": 610.6,
+      "sunday": 578.68,
+      "monday": 419.48,
+      "tuesday": 349.56
+    },
+    "weekday_mean": 364.84,
+    "weekend_mean": 528.21,
+    "daily_mean": 458.19
+  },
+  {
+    "sample_id": "dk-odense-2025-cot",
+    "catchment_id": "odense",
+    "substance": "cot",
+    "year": 2025,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 816.25,
+      "thursday": 799.03,
+      "friday": 871.84,
+      "saturday": 812.57,
+      "sunday": 786.15,
+      "monday": 848.52,
+      "tuesday": 780.76
+    },
+    "weekday_mean": 798.68,
+    "weekend_mean": 829.77,
+    "daily_mean": 816.44
+  },
+  {
+    "sample_id": "dk-odense-2025-ets",
+    "catchment_id": "odense",
+    "substance": "ets",
+    "year": 2025,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 2388.88,
+      "thursday": 2723.31,
+      "friday": 4025.95,
+      "saturday": 6176.47,
+      "sunday": 5536.39,
+      "monday": 2718.43,
+      "tuesday": 2284.99
+    },
+    "weekday_mean": 2465.73,
+    "weekend_mean": 4614.31,
+    "daily_mean": 3693.49
+  },
+  {
+    "sample_id": "dk-odense-2024-ketamine",
+    "catchment_id": "odense",
+    "substance": "ketamine",
+    "year": 2024,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 4.92,
+      "thursday": 5.14,
+      "friday": 4.62,
+      "saturday": 9.58,
+      "sunday": 8.15,
+      "monday": 10.27,
+      "tuesday": 7.85
+    },
+    "weekday_mean": 5.97,
+    "weekend_mean": 8.15,
+    "daily_mean": 7.22
+  },
+  {
+    "sample_id": "dk-odense-2025-ketamine",
+    "catchment_id": "odense",
+    "substance": "ketamine",
+    "year": 2025,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 6.61,
+      "thursday": 5.14,
+      "friday": 22.07,
+      "saturday": 6.19,
+      "sunday": 7.47,
+      "monday": 12.82,
+      "tuesday": 3.34
+    },
+    "weekday_mean": 5.03,
+    "weekend_mean": 12.14,
+    "daily_mean": 9.09
+  },
+  {
+    "sample_id": "dk-odense-2021-methamphetamine",
+    "catchment_id": "odense",
+    "substance": "methamphetamine",
+    "year": 2021,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 3.42,
+      "thursday": 3.39,
+      "friday": 3.37,
+      "saturday": 4.99,
+      "sunday": 6.81,
+      "monday": 4.3,
+      "tuesday": 7.19
+    },
+    "weekday_mean": 4.34,
+    "weekend_mean": 5.37,
+    "daily_mean": 4.78
+  },
+  {
+    "sample_id": "dk-odense-2024-methamphetamine",
+    "catchment_id": "odense",
+    "substance": "methamphetamine",
+    "year": 2024,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 1.48,
+      "thursday": 1.07,
+      "friday": 1.06,
+      "saturday": 0.89,
+      "sunday": 1.85,
+      "monday": 1.99,
+      "tuesday": 2.17
+    },
+    "weekday_mean": 1.57,
+    "weekend_mean": 1.45,
+    "daily_mean": 1.5
+  },
+  {
+    "sample_id": "dk-odense-2025-methamphetamine",
+    "catchment_id": "odense",
+    "substance": "methamphetamine",
+    "year": 2025,
+    "source": "EUDA",
+    "unit": "index_wednesday_eq_1",
+    "weekday_values": {
+      "wednesday": 4.5,
+      "thursday": 6.76,
+      "friday": 2.5,
+      "saturday": 3.72,
+      "sunday": 2.55,
+      "monday": 2.21,
+      "tuesday": 3.03
+    },
+    "weekday_mean": 4.76,
+    "weekend_mean": 2.74,
+    "daily_mean": 3.61
+  }
+]
